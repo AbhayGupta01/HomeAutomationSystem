@@ -29,5 +29,12 @@ Output Screen - LCD 16x2
 ![image](https://user-images.githubusercontent.com/80665616/235198174-1512e568-4e9a-48ee-8201-ded0ac7aeb1b.png)
 
 Output:
+1) No Movement
 
 ![Output](https://user-images.githubusercontent.com/80665616/235196929-18313c0c-fab3-48ce-85ba-c67c5418424f.png)
+
+2) When movement is detected the Bulb and Fan is turned ON.
+
+![image](https://user-images.githubusercontent.com/80665616/235199772-37b1d490-5093-4d67-b023-847d73df68d3.png)
+
+
