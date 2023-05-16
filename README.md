@@ -26,7 +26,8 @@ LCD Controller:
 
 Functioning:
 
-- Temperature HIGH && Light Intensity LOW : Bulb and Fan both are switched ON
+- Temperature HIGH && Light Intensity LOW: Bulb and Fan both are switched ON.
+- Temperature LOW && Light Intensity HIGH: Only Fan is switched ON. 
 
 Output Screen - LCD 16x2
 
