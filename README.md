@@ -24,6 +24,10 @@ LCD Controller:
 
 ![image](https://user-images.githubusercontent.com/80665616/235198656-564f2839-a962-4e5f-87ae-329ddaf2b345.png)
 
+Functioning:
+
+- Temperature HIGH && Light Intensity LOW : Bulb and Fan both are switched ON
+
 Output Screen - LCD 16x2
 
 ![image](https://user-images.githubusercontent.com/80665616/235198174-1512e568-4e9a-48ee-8201-ded0ac7aeb1b.png)
