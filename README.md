@@ -25,11 +25,14 @@ LCD Controller:
 ![image](https://user-images.githubusercontent.com/80665616/235198656-564f2839-a962-4e5f-87ae-329ddaf2b345.png)
 
 Functioning:
-
+if(MOTION DETECTED) {
 - Temperature HIGH && Light Intensity LOW: Bulb and Fan both are switched ON.
 - Temperature LOW && Light Intensity HIGH: Only Fan is switched ON. 
 - Temperature LOW && Light Intensity HIGH: Only Bulb is switched ON. 
 - Temperature LOW && Light Intensity LOW: All appliances switched OFF.
+} else {
+- No MOTION DETECTED
+}
 
 Output Screen - LCD 16x2
 
