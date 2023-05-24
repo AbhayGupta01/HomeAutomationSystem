@@ -31,7 +31,7 @@ if(MOTION DETECTED) {
 - Temperature LOW && Light Intensity HIGH: Only Bulb is switched ON. 
 - Temperature LOW && Light Intensity LOW: All appliances switched OFF.
 } else {
-- No MOTION DETECTED
+- print (No MOTION DETECTED)
 }
 
 Output Screen - LCD 16x2
